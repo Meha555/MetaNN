@@ -1,5 +1,8 @@
 #pragma once
 
+#include <MetaNN/data/facilities/shape.h>
+#include <MetaNN/evaluate/eval_handle.h>
+
 namespace MetaNN
 {
     template <typename TElem, typename TDevice, typename TDataCate>

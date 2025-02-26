@@ -1,3 +1,5 @@
+#pragma once
+
 #include <MetaNN/operation/facilities/instance_id.h>
 #include <MetaNN/operation/facilities/operation_frame.h>
 #include <MetaNN/operation/facilities/organizer.h>

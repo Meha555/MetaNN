@@ -1,6 +1,9 @@
 #pragma once
 
+#include <MetaNN/facilities/traits.h>
 #include <MetaNN/policies/policy_macro_begin.h>
+#include <cstddef>
+
 namespace MetaNN
 {
     struct DimPolicy

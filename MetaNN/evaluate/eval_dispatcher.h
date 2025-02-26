@@ -1,4 +1,5 @@
 #pragma once
+#include <cassert>
 #include <list>
 #include <memory>
 #include <MetaNN/evaluate/eval_group.h>

@@ -3,6 +3,10 @@
 #include <stack>
 #include <string>
 #include <type_traits>
+#include <MetaNN/data/dynamic.h>
+#include <MetaNN/policies/policy_container.h>
+#include <MetaNN/data/scalable_tensor.h>
+#include <MetaNN/operation/facilities/policies.h>
 #include <MetaNN/facilities/var_type_dict.h>
 #include <MetaNN/layers/facilities/layer_in_map.h>
 #include <MetaNN/facilities/cont_metafuns/sequential.h>

@@ -22,7 +22,7 @@ namespace Test::Operation::Math
     void test_tan();        void test_tan_grad();
     void test_tanh();       void test_tanh_grad();
 
-    void test()
+    inline void test()
     {
         test_abs();
         test_acos();        test_acos_grad();

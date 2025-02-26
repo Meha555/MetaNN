@@ -3,7 +3,6 @@
 #include <MetaNN/layers/facilities/policies.h>
 #include <MetaNN/layers/facilities/traits.h>
 #include <MetaNN/policies/_.h>
-#include <stack>
 
 namespace MetaNN
 {

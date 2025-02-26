@@ -1,9 +1,9 @@
 #pragma once
 
+#include <MetaNN/data/tensor.h>
 #include <cassert>
 #include <memory>
 #include <stdexcept>
-#include <type_traits>
 
 namespace MetaNN
 {

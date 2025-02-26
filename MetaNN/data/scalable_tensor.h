@@ -1,5 +1,10 @@
 #pragma once
 
+#include <MetaNN/evaluate/eval_plan.h>
+#include <MetaNN/evaluate/eval_item.h>
+#include <MetaNN/evaluate/eval_group.h>
+#include <MetaNN/evaluate/eval_buffer.h>
+#include <MetaNN/evaluate/eval_handle.h>
 #include <MetaNN/data/facilities/shape.h>
 #include <MetaNN/facilities/_.h>
 #include <algorithm>

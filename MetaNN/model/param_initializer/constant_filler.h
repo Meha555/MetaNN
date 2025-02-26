@@ -1,6 +1,6 @@
 #pragma once
 
-#include <random>
+#include <MetaNN/data/facilities/device_tags.h>
 #include <stdexcept>
 #include <type_traits>
 

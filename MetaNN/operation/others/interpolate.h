@@ -4,7 +4,6 @@
 #include <MetaNN/evaluate/eval_plan.h>
 #include <MetaNN/facilities/_.h>
 #include <MetaNN/operation/facilities/_.h>
-#include <stdexcept>
 
 namespace MetaNN::OpTags
 {

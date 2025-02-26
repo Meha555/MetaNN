@@ -1,8 +1,8 @@
 #pragma once
 
 #include <random>
-#include <stdexcept>
 #include <type_traits>
+#include <MetaNN/model/param_initializer/facilities/policies.h>
 #include <MetaNN/model/param_initializer/facilities/fill_with_spec_dist.h>
 #include <MetaNN/policies/_.h>
 

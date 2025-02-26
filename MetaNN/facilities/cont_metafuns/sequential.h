@@ -1,5 +1,7 @@
 #pragma once
+#include <MetaNN/facilities/traits.h>
 #include <MetaNN/facilities/cont_metafuns/helpers.h>
+#include <cstddef>
 
 namespace MetaNN::Sequential
 {

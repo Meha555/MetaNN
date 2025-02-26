@@ -4,7 +4,7 @@ namespace Test::Data::Facilities
 {
     void test_shape();
 
-    void test()
+    inline void test()
     {
         test_shape();
     }

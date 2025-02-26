@@ -1,7 +1,7 @@
 #pragma once
 
-#include <cassert>
 #include <type_traits>
+#include <MetaNN/evaluate/eval_plan.h>
 #include <MetaNN/evaluate/eval_buffer.h>
 #include <MetaNN/facilities/cont_metafuns/sequential.h>
 #include <MetaNN/operation/facilities/organizer.h>

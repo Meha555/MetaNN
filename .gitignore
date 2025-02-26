@@ -11,3 +11,7 @@
 /Tests/*/Release/
 /MetaNN/Debug/
 /MetaNN/Release/
+
+.cache/
+.vscode/
+build/

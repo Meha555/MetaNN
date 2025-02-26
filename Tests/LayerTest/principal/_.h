@@ -5,7 +5,7 @@
 #include <principal/tensor/_.h>
 namespace Test::Layer
 {
-    void test_principal()
+    inline void test_principal()
     {
         Principal::test_math();
         Principal::test_nn();

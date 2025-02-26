@@ -1,6 +1,8 @@
 #pragma once
 
 #include <type_traits>
+#include <utility>
+
 namespace MetaNN
 {
 template <typename TLayer, typename TIn>

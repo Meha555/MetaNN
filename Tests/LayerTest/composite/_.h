@@ -10,7 +10,7 @@ namespace Test::Layer
         void test_weight_layer();
     }
 
-    void test_composite()
+    inline void test_composite()
     {
         Composite::test_compose_kenrel();
 

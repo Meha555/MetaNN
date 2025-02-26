@@ -2,7 +2,7 @@
 
 #include <MetaNN/layers/facilities/_.h>
 #include <MetaNN/policies/_.h>
-#include <stack>
+
 namespace MetaNN
 {
     template <typename TInputs, typename TPolicies>

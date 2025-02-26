@@ -1,8 +1,8 @@
 #pragma once
-#include <operation/math/_.h>
-#include <operation/nn/_.h>
-#include <operation/others/_.h>
-#include <operation/tensor/_.h>
+#include "operation/math/_.h"
+#include "operation/nn/_.h"
+#include "operation/others/_.h"
+#include "operation/tensor/_.h"
 
 namespace Test::Operation
 {

@@ -1,6 +1,5 @@
 #include <MetaNN/meta_nn.h>
 #include <calculate_tags.h>
-#include <cassert>
 #include <iostream>
 using namespace MetaNN;
 using namespace std;

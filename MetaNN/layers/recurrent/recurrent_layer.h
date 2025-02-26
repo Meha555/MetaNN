@@ -1,5 +1,16 @@
 #pragma once
+
+#include <MetaNN/data/facilities/category_tags.h>
+#include <MetaNN/data/scalable_tensor.h>
+#include <MetaNN/layers/facilities/layer_in_map.h>
+#include <MetaNN/layers/facilities/policies.h>
+#include <MetaNN/operation/facilities/policies.h>
+#include <MetaNN/policies/policy_container.h>
+#include <MetaNN/policies/policy_operations.h>
 #include <MetaNN/facilities/cont_metafuns/_.h>
+#include <stack>
+#include <cassert>
+
 namespace MetaNN
 {
     struct KernelSublayer;

@@ -2,7 +2,8 @@
 
 #include <random>
 #include <stdexcept>
-#include <type_traits>
+#include <MetaNN/policies/policy_container.h>
+#include <MetaNN/policies/policy_operations.h>
 #include <MetaNN/model/param_initializer/facilities/fill_with_spec_dist.h>
 #include <MetaNN/model/param_initializer/facilities/policies.h>
 

@@ -1,4 +1,6 @@
 #pragma once
+
+#include <MetaNN/layers/recurrent/recurrent_layer.h>
 #include <MetaNN/layers/composite/compose_kernel.h>
 #include <MetaNN/layers/composite/weight_layer.h>
 #include <MetaNN/layers/principal/_.h>

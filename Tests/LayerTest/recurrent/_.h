@@ -7,7 +7,7 @@ namespace Test::Layer
         void test_gru();
     }
 
-    void test_recurrent()
+    inline void test_recurrent()
     {
         Recurrent::test_recurrent_layer();
 

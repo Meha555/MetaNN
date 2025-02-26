@@ -1,5 +1,11 @@
 #pragma once
 
+#include <MetaNN/layers/facilities/layer_in_map.h>
+#include <MetaNN/layers/facilities/policies.h>
+#include <MetaNN/layers/facilities/traits.h>
+#include <MetaNN/policies/policy_container.h>
+#include <MetaNN/policies/policy_operations.h>
+
 namespace MetaNN
 {
     template <typename TInputs, typename TPolicies>

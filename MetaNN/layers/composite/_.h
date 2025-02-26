@@ -1,3 +1,5 @@
+#pragma once
+
 #include <MetaNN/layers/composite/bias_layer.h>
 #include <MetaNN/layers/composite/linear_layer.h>
 #include <MetaNN/layers/composite/single_layer_perceptron.h>

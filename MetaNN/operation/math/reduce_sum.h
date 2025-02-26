@@ -4,6 +4,7 @@
 #include <MetaNN/policies/_.h>
 #include <MetaNN/facilities/cont_metafuns/value_sequential.h>
 #include <numeric>
+#include <algorithm>
 
 namespace MetaNN::OpTags
 {

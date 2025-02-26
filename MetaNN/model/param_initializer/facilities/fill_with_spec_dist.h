@@ -1,6 +1,8 @@
 #pragma once
 
-#include <random>
+#include <stdexcept>
+#include <MetaNN/data/tensor.h>
+#include <MetaNN/data/facilities/device_tags.h>
 
 namespace MetaNN
 {
